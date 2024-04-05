@@ -50,5 +50,5 @@ def display_card(hover_data):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8050)
+    app.run(debug=True, port=8100)
     # Runs on port 8050 by default, this just shows the parameter to use to change to another port if needed
